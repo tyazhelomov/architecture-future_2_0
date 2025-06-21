@@ -1,0 +1,271 @@
+{
+  "releases": [
+    "2024-12-27",
+    "2025-05-12",
+    "2025-09-01",
+    "2025-12-25"
+  ],
+  "tags": [
+    "changed",
+    "default"
+  ],
+  "items": [
+    {
+      "id": "ApacheCamel",
+      "release": "2025-12-25",
+      "title": "Apache Camel",
+      "ring": "hold",
+      "quadrant": "tools",
+      "body": "<p>Шина данных</p>\n",
+      "featured": true,
+      "flag": "changed",
+      "tags": [
+        "changed"
+      ],
+      "revisions": [
+        {
+          "release": "2025-09-01",
+          "ring": "adopt",
+          "body": "<p>Шина данных</p>\n"
+        },
+        {
+          "release": "2025-05-12",
+          "ring": "adopt",
+          "body": "<p>Шина данных</p>\n"
+        },
+        {
+          "release": "2024-12-27",
+          "ring": "adopt",
+          "body": "<p>Шина данных</p>\n"
+        }
+      ],
+      "position": [
+        483,
+        754
+      ]
+    },
+    {
+      "id": "DataHub",
+      "release": "2025-12-25",
+      "title": "DataHub",
+      "ring": "adopt",
+      "quadrant": "tools",
+      "body": "<p>DataHub — используем каталог метаданных и инструмент для data lineage</p>\n",
+      "featured": true,
+      "flag": "changed",
+      "tags": [
+        "changed"
+      ],
+      "revisions": [
+        {
+          "release": "2025-09-01",
+          "ring": "trial",
+          "body": "<p>DataHub — пробуем каталог метаданных и инструмент для data lineage</p>\n"
+        },
+        {
+          "release": "2025-05-12",
+          "ring": "assess",
+          "body": "<p>DataHub — изучаем каталог метаданных и инструмент для data lineage</p>\n"
+        }
+      ],
+      "position": [
+        502,
+        551
+      ]
+    },
+    {
+      "id": "DLH",
+      "release": "2025-12-25",
+      "title": "DLH на базе BigQuery",
+      "ring": "adopt",
+      "quadrant": "platforms-and-operations",
+      "body": "<p>DWH на базе BigQuery - используем</p>\n",
+      "featured": true,
+      "flag": "changed",
+      "tags": [
+        "changed"
+      ],
+      "revisions": [
+        {
+          "release": "2025-09-01",
+          "ring": "trial",
+          "body": "<p>DWH на базе BigQuery - разворачиваем и пробуем в использовании</p>\n"
+        },
+        {
+          "release": "2025-05-12",
+          "ring": "assess",
+          "body": "<p>DWH на базе BigQuery - изучаем возможность использования</p>\n"
+        }
+      ],
+      "position": [
+        275,
+        450
+      ]
+    },
+    {
+      "id": "Dremio",
+      "release": "2025-12-25",
+      "title": "Dremio",
+      "ring": "adopt",
+      "quadrant": "tools",
+      "body": "<p>Dremio - используем движок для аналитики и SQL-запросов</p>\n",
+      "featured": true,
+      "flag": "changed",
+      "tags": [
+        "changed"
+      ],
+      "revisions": [
+        {
+          "release": "2025-09-01",
+          "ring": "assess",
+          "body": "<p>Dremio - пробуем в использовании движок для аналитики и SQL-запросов</p>\n"
+        },
+        {
+          "release": "2025-05-12",
+          "ring": "assess",
+          "body": "<p>Dremio - изучаем движок для аналитики и SQL-запросов</p>\n"
+        }
+      ],
+      "position": [
+        477,
+        535
+      ]
+    },
+    {
+      "id": "DWH",
+      "release": "2025-12-25",
+      "title": "DWH на базе Microsoft SQL-сервера",
+      "ring": "hold",
+      "quadrant": "platforms-and-operations",
+      "body": "<p>DWH на базе Microsoft SQL-сервера - историческое хранилище данных</p>\n",
+      "featured": true,
+      "flag": "changed",
+      "tags": [
+        "changed"
+      ],
+      "revisions": [
+        {
+          "release": "2025-09-01",
+          "ring": "adopt",
+          "body": "<p>DWH на базе Microsoft SQL-сервера - историческое хранилище данных</p>\n"
+        },
+        {
+          "release": "2025-05-12",
+          "ring": "adopt",
+          "body": "<p>DWH на базе Microsoft SQL-сервера - историческое хранилище данных</p>\n"
+        },
+        {
+          "release": "2024-12-27",
+          "ring": "adopt",
+          "body": "<p>DWH на базе Microsoft SQL-сервера - историческое хранилище данных</p>\n"
+        }
+      ],
+      "position": [
+        240,
+        739
+      ]
+    },
+    {
+      "id": "Golang",
+      "release": "2025-12-25",
+      "title": "Golang",
+      "ring": "adopt",
+      "quadrant": "languages-and-frameworks",
+      "body": "<p>Язык в финтех сервисах</p>\n",
+      "featured": true,
+      "flag": "changed",
+      "tags": [
+        "default"
+      ],
+      "position": [
+        342,
+        280
+      ]
+    },
+    {
+      "id": "Java",
+      "release": "2025-12-25",
+      "title": "Java",
+      "ring": "adopt",
+      "quadrant": "languages-and-frameworks",
+      "body": "<p>Язык в финтех сервисах</p>\n",
+      "featured": true,
+      "flag": "changed",
+      "tags": [
+        "default"
+      ],
+      "position": [
+        347,
+        334
+      ]
+    },
+    {
+      "id": "PowerBI",
+      "release": "2025-12-25",
+      "title": "Power BI",
+      "ring": "adopt",
+      "quadrant": "methods-and-patterns",
+      "body": "<p>Удобный и мощный инструмент для аналитики</p>\n",
+      "featured": true,
+      "flag": "changed",
+      "tags": [
+        "default"
+      ],
+      "position": [
+        578,
+        352
+      ]
+    },
+    {
+      "id": "PowerBuilder",
+      "release": "2025-12-25",
+      "title": "Power Builder",
+      "ring": "hold",
+      "quadrant": "tools",
+      "body": "<p>Клиент серверное приложение</p>\n",
+      "featured": true,
+      "flag": "changed",
+      "tags": [
+        "changed"
+      ],
+      "revisions": [
+        {
+          "release": "2025-09-01",
+          "ring": "adopt",
+          "body": "<p>Клиент серверное приложение</p>\n"
+        },
+        {
+          "release": "2025-05-12",
+          "ring": "adopt",
+          "body": "<p>Клиент серверное приложение</p>\n"
+        },
+        {
+          "release": "2024-12-27",
+          "ring": "adopt",
+          "body": "<p>Клиент серверное приложение</p>\n"
+        }
+      ],
+      "position": [
+        722,
+        589
+      ]
+    },
+    {
+      "id": "Python",
+      "release": "2025-12-25",
+      "title": "Python",
+      "ring": "adopt",
+      "quadrant": "languages-and-frameworks",
+      "body": "<p>Язык для ИИ сервисов</p>\n",
+      "featured": true,
+      "flag": "changed",
+      "tags": [
+        "default"
+      ],
+      "position": [
+        377,
+        316
+      ]
+    }
+  ]
+}
